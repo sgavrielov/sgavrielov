@@ -10,6 +10,10 @@ I'm all about building high-performance projects, diving deep into the world of 
 - Exploring the mysteries of memory – yes, I’m the guy who reads the fine print on malloc and free!
 - Building awesome software that users love and keep coming back for.
 
+📫 Get in Touch: [LinkedIn][linkedin]
+
+[linkedin]: linkedin.com/in/shaul-gavrielov-087565193
+
 <!--
 **sgavrielov/sgavrielov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
