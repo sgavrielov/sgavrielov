@@ -12,7 +12,7 @@ I'm all about building high-performance projects, diving deep into the world of 
 
 📫 Get in Touch: [LinkedIn][linkedin]
 
-[linkedin]: linkedin.com/in/shaul-gavrielov-087565193
+[linkedin]: https://www.linkedin.com/in/shaul-gavrielov-087565193/
 
 <!--
 **sgavrielov/sgavrielov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
